@@ -6,13 +6,13 @@ By seeing visualizing key Stakeholders can identify areas for improvement
 and implement evidence-based strategies effectively.
 
 ## Data categories 
- Electronics
-footwear
-clothing
-home
-Appliances
-Accessories
-Kitchenware
+ Electronics,
+footwear,
+clothing,
+home,
+Appliances,
+Accessories,
+Kitchenware,
 bags.
 
 ## Project Goals
